@@ -1,6 +1,10 @@
 {
   "name": "hardvare-app",
   "version": "0.1.0",
+  "description": "Hardvare App",
+  "author": "szalap",
+  "license": "MIT",
+  "repository": "https://github.com/pioszala/hardvare/tree/master",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -13,7 +17,7 @@
     "@types/react-router-dom": "^5.1.7",
     "eslint-config-prettier-react": "^0.0.24",
     "eslint-config-standard-react": "^11.0.1",
-    "hardvare-shopping-page": "^1.0.0",
+    "hardvare-shopping-page": "^0.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
@@ -41,7 +45,7 @@
     ]
   },
   "devDependencies": {
-    "eslint-config-szalap": "^0.0.0",
-    "tsconfig-szalap": "^0.0.0"
+    "eslint-config-szalap": "^0.1.0",
+    "tsconfig-szalap": "^0.1.0"
   }
 }
