@@ -1,0 +1,27 @@
+{
+  "extends": "tsconfig-szalap",
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "sourceMap": true,
+  },
+  "include": [
+    "src"
+  ]
+}

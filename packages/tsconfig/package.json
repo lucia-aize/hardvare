@@ -1,0 +1,25 @@
+{
+  "name": "tsconfig-szalap",
+  "version": "0.0.0",
+  "description": "Shared tsconfig package for all packages",
+  "keywords": [
+    "tsconfig",
+    "typescript"
+  ],
+  "author": "Piotr Szala <szalap@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "engines": {
+		"node": ">=10"
+  },
+  "peerDependencies": {
+    "typescript": "^4.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1"
+  }
+}

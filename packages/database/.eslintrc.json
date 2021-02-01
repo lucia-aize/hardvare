@@ -1,0 +1,11 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["szalap", "airbnb"],
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "no-console": "off",
+    "comma-dangle": "off"
+  }
+}
