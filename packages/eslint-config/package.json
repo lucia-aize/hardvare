@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-szalap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Shareable ESLint configuration for all packages",
-  "keywords": [],
   "author": "Piotr Szala <szalap@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/pioszala/hardvare/tree/master",
   "main": "index.js",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.8.1",
@@ -17,5 +17,6 @@
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-simple-import-sort": "^6.0.0",
     "prettier": "^2.2.1"
-  }
+  },
+  "keywords": []
 }
