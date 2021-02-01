@@ -35,7 +35,7 @@ const ShoppingSummary: FC<ShoppingSummaryProps> = ({ total = 0 }) => {
 
   useEffect(() => {
     setShipping(total < 500 && total > 0 ? 100 : 0);
-  }, [total]);
+  }, [total, setShipping]);
 
   return (
     <Paper className={classes.summary}>

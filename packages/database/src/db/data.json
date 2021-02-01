@@ -5,42 +5,42 @@
       "name": "Hammer",
       "description": " This is a very nice Hammer",
       "price": 200,
-      "image": "https://images.unsplash.com/photo-1579445710183-f9a816f5da05"
+      "image": "https://images.unsplash.com/photo-1579445710183-f9a816f5da05?w=240"
     },
     {
       "id": 2,
       "name": "Nails",
       "description": " This is a very nice Nails",
       "price": 100,
-      "image": "https://images.unsplash.com/photo-1605092224201-c27ac9ef7127"
+      "image": "https://images.unsplash.com/photo-1605092224201-c27ac9ef7127?w=240"
     },
     {
       "id": 4,
       "name": "Hard wood floor",
       "description": "Oak wood flooring for good price",
       "price": 100,
-      "image": "https://images.unsplash.com/photo-1612013417544-6ee934c38d81"
+      "image": "https://images.unsplash.com/photo-1612013417544-6ee934c38d81?w=240"
     },
     {
       "id": 5,
       "name": "Wood Paint",
       "description": "Wood Paint flooring for good price",
       "price": 100,
-      "image": "https://images.unsplash.com/photo-1612099498363-173494c65ba8"
+      "image": "https://images.unsplash.com/photo-1612099498363-173494c65ba8?w=240"
     },
     {
       "id": 6,
       "name": "Paint Brush",
       "description": "Paint Brush for good price",
       "price": 100,
-      "image": "https://images.unsplash.com/photo-1602940494849-b7c5e40842df"
+      "image": "https://images.unsplash.com/photo-1602940494849-b7c5e40842df?w=240"
     },
     {
       "name": "Sand paper",
       "description": " This is a very nice Sand Paper, High grit.",
       "price": 100,
       "id": 7,
-      "image": "https://images.unsplash.com/photo-1612052920926-51ca97403a15"
+      "image": "https://images.unsplash.com/photo-1612052920926-51ca97403a15?w=240"
     }
   ],
   "users": [
